@@ -8,6 +8,6 @@ public class MineriaController {
 
     @RequestMapping("/")
     public String home(){
-        return "Hello World, with Load Balancer";
+        return "Hola profe xd";
     }
 }
